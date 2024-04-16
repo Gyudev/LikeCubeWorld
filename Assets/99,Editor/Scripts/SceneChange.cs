@@ -19,6 +19,6 @@ public class SceneChange : Editor
     [MenuItem("SceneChange/2.GameScene")]
     private static void GameScene()
     {
-        EditorSceneManager.OpenScene("Assets/00.Scenes/01.Game.unity");
+        EditorSceneManager.OpenScene("Assets/00.Scenes/02.Game.unity");
     }
 }
